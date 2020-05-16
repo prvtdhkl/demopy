@@ -1,7 +1,2 @@
 print("hello")
-print("hi")
-print("welcome")
-print("nice to meet you")
-print("nice to meet you too")
-print("All is well")
-print("Hello world")
+
